@@ -1,0 +1,19 @@
+.contenedor-cajas {
+  display: grid;
+  grid-auto-flow: column;
+
+  padding: 10px;
+  border-style: solid;
+  border-width: 1px;
+  border-color: cadetblue;
+}
+
+.caja {
+  width: 100px;
+  height: 100px;
+  margin: 10px;
+  border-style: solid;
+  border-width: 1px;
+  border-color: springgreen;
+  text-align: center;
+}
